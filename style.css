@@ -1,0 +1,118 @@
+body{
+    margin: 0px;
+    background-color: #d8f3ff;
+    font-family: 'Roboto';
+}
+.banner img{
+    height: 700px;
+    width: 100%;
+}
+.data{
+    padding: 26px;
+    background-color: rgb(120, 133, 141);
+    padding-left:3.5%;
+    font-weight: 700;
+   
+}
+.data a{
+    padding: 40px;
+    color: cornsilk;
+    text-decoration: none;
+    font-size: 20px;
+    padding-right: 25px;
+  
+}
+.data a:hover{
+    color: rgb(252, 113, 140);
+    background-color: rgb(98, 100, 99);
+    padding: 26px;
+    border-radius: 8px;
+}
+.sata img{
+    height: 50%;
+    width: 50%;
+    float: left;
+}
+.habib img{
+    height:100%;
+    width: 100%;
+}
+
+.gulam span{
+    color: goldenrod;
+    font-size: 30px;
+}
+.gulam h1{
+    color: rgb(173, 23, 23);
+    font-size: 35px;
+    padding: 30px;
+    
+ 
+}
+.jaja span{
+    color: rgb(243, 123, 123);
+  
+}
+.jaja{
+    color: rgb(197, 35, 111);
+    padding-left: 30px;
+    
+}
+
+.abul{
+    width: 50%;
+    float: left;
+
+}
+.jana{
+    background:  rgb(63, 156, 105);
+    color: white;
+    padding: 15px;
+    width: 88%;
+    height: 160px;
+    overflow: scroll;
+    border: 1px solid #ccc;
+    padding-right: 25px;
+    padding-left: 20px;
+}
+h3{
+    color: rgb(33, 82, 52);
+    padding-left: 26px;
+    font-weight: 700;
+}
+.facebook{
+
+    margin-bottom:3% ;
+    margin-top: 3%;
+}
+
+.facebook a{ 
+    padding:12px ;
+   margin-left:1% ;
+   font-size: 30px;
+   text-decoration: none;
+   background-color: rgb(230, 178, 204);
+   border-radius: 7px;
+   font-weight: 700;
+}
+.Instagram a{
+    padding: 12px;
+   font-size:30px ;
+   text-decoration: none;
+   background-color:rgb(230, 178, 204);
+   border-radius: 7px;
+   margin-top: 10%;
+   font-weight: 700;
+}
+.Instagram{
+   
+    margin-left: 1%;
+    margin-bottom:3% ;
+    margin-top: 3%;
+}
+
+.footer img{
+    
+    height:600px;
+    width: 100%;
+}
